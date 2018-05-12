@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1336
     wikipedia: http://en.wikipedia.org/wiki/Georges_Ohnet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14236#En-el-Fondo-del-Abismo--La-Justicia-Infalible
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
